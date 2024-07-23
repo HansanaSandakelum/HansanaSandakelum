@@ -7,7 +7,7 @@
 </h1>
 
 <!-- <h1 align="center">Hi 👋, I'm Supun Nanayakkara</h1> -->
-<h3 align="center">Front-End Developer & UI/UX Designer 🚀 | Undergraduate at Sabaragamuwa University 🎓</h3>
+<h3 align="center">full stack Developer & UI/UX Designer 🚀 | Undergraduate at Sabaragamuwa University 🎓</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted;
 Driven by a passion for creating seamless user experiences, I am currently focused on mastering full-stack development. By blending creativity with technology, I aim to build innovative and impactful solutions. Let's connect and collaborate to bring fresh ideas to life!🛠️</p>
 <p align="center"> 
