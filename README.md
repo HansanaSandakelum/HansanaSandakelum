@@ -60,7 +60,7 @@ Driven by a passion for creating seamless user experiences, I am currently focus
 <!-- <a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a> -->
 </p>
 <br>
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 <h3 align="left">Languages and Tools:</h3>
