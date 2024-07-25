@@ -61,7 +61,7 @@ Driven by a passion for creating seamless user experiences, I am currently focus
 </p>
 <br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 <h3 align="left">Languages and Tools:</h3>
 
